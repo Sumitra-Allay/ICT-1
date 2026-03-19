@@ -1,0 +1,8 @@
+a = Bool(0)
+b = Bool(1)
+print(type(a))
+print(type(b))
+a = Bool("")
+b = Bool("Hello")
+print(a)
+print(b) 
